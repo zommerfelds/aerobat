@@ -1,4 +1,4 @@
 aerobat
 =======
 
-A simple battery application for the system tray
+A simple battery monitor icon for the system tray written using Python and GTK+ 2
